@@ -1,0 +1,7 @@
+Package: obliterator
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: xsCyber
+Description: A full system-level tool remover with interactive terminal interface.
