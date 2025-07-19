@@ -1,4 +1,8 @@
-![Obliterator Banner](banner.jpeh)
+<p align="center">
+  <img src="banner.jpeg" alt="Obliterator Banner" width="600"/>
+</p>
+
+
 # Obliterator 🔥
 
 Obliterator is a red team post-exploitation cleanup utility for Linux systems.
