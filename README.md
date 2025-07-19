@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="banner.jpeg" alt="Obliterator Banner" width="600"/>
-</p>
-
+![Obliterator Banner](./bannar.jpeg)
 
 # Obliterator 🔥
 
