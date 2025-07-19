@@ -1,3 +1,4 @@
+![Obliterator Banner](banner.jpeh)
 # Obliterator 🔥
 
 Obliterator is a red team post-exploitation cleanup utility for Linux systems.
